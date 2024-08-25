@@ -1,0 +1,8 @@
+.square{
+    position: relative;
+    width :100px;
+    height: 100px;
+    background: linear-gradient(black 50%, red 50%);
+    top: 0;
+    left: 0;
+}
